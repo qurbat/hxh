@@ -1,0 +1,72 @@
+---
+
+---
+
+<head>
+  <title>{{ page.title }}</title>
+</head>
+<style>
+  body {
+    background-color: #c10c33;
+  }
+
+  div.main {
+    padding: 0;
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  h1.text {
+    font-family: "Happy Times at the IKOB", Icons;
+  	font-style: normal;
+  	font-weight: 700;
+  	padding: 0;
+  	margin: 0;
+  	font-size: 1.4rem;
+  	line-height: 1.6;
+  	color: rgba(0, 0, 0, 1);
+  }
+
+
+  h2.text {
+      display: inline-block;
+    	font-size: 2.6rem;
+    	line-height: 0.2;
+    	font-family: "Happy Times at the IKOB", Icons;
+    	font-style: italic;
+    	font-weight: 400;
+    	color: rgba(255, 255, 255, 0.85);
+  }
+
+  p.next {
+    padding-left: 10vw;
+    font-size: 2vh;
+    color: grey;
+  }
+
+  .main {
+    max-width: auto;
+    font-size: 4vw;
+    margin: auto;
+  }
+
+  .responsive {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  }
+
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% include header.html %}
+
+{% for post in site.posts %}
+<div class="main">
+      <h1 class="text">{{post.description}}</h1>
+      <article>
+        <h2 class="text">{{post.content}}</h2>
+      </article>
+    <hr style="color: #111111; margin-top: 5%" width="20%">
+{% endfor %}
+</div>
