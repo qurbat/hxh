@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2020-09-05 13:20:03 +0530
+categories: haikus
+---
+Damned authority
+
+Ballots reek depravity
+
+Blades test gravity
