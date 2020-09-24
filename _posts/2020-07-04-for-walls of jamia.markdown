@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "For the walls of jamia"
+description: "FOR THE WALLS OF JAMIA"
 date:   2020-07-05 13:20:03 +0530
 categories: haikus
 ---
