@@ -76,9 +76,10 @@
 
   .footer {
     text-align: center;
-    font-family: "Happy Times at the IKOB Bold";
-    padding-top: 2em;
-    font-size: 0.8em;
+    font-family: "Happy Times at the IKOB Regular";
+    font-weight: 300;
+    padding-top: 0.8em;
+    font-size: 0.9em;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -123,14 +124,6 @@
     	font-weight: 400;
     	color: rgba(255, 255, 255, 0.85);
   }
-  
-  h3.text {
-    font-family: "Happy Times at the IKOB Bold";
-  	margin: 0;
-  	font-size: calc(13px + 0.6vw);
-  	line-height: 1.0;
-  	color: rgba(0, 0, 0, 1);
-  }
 
 </style>
 
@@ -152,9 +145,9 @@
 </div>
 
 <br><br>
-  
+
 <footer class="footer">
-  <h3>{% include footer.html %}</h3>
+  {% include footer.html %}
 </footer>
 </body>
 </html>
