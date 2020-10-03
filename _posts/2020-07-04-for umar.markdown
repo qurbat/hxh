@@ -1,0 +1,11 @@
+---
+layout: post
+description: "FOR UMAR"
+date:   2020-09-12 13:20:03 +0530
+categories: haikus
+---
+Meek voice, made gallant
+
+We are you, as us you are
+
+End inquisition!
