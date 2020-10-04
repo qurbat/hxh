@@ -8,4 +8,4 @@ A thousand pyres,
 
 Twice born, never once ashamed?
 
-Savarnas culpable
+Savarna State
