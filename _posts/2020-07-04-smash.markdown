@@ -1,7 +1,7 @@
 ---
 layout: post
 description: ""
-date:   2020-09-05 13:20:03 +0530
+date:   2020-08-05 13:20:03 +0530
 categories: haikus
 ---
 Caste born, borne by fate.
