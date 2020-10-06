@@ -8,4 +8,4 @@ Imprisoned are those
 
 In confines of their hate
 
-Stare God in his eyes
+The fight for resolve.
