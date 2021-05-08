@@ -1,1 +1,11 @@
+---
+layout: post
+description: "FOR KISAAN ANDOLAN"
+date:   2021-01-02 13:20:03 +0530
+categories: haikus
+---
+Antithetic quite?
 
+Those that only demolish,
+
+Those who only grow.
