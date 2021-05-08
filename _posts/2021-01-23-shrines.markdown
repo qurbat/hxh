@@ -1,1 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-01-23 13:20:03 +0530
+categories: haikus
+---
+Shrines in our hearts
 
+Obituaries that fill books,
+
+Doomscroll hapless pleas.
