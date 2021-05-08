@@ -1,1 +1,11 @@
+---
+layout: post
+description: "FOR SINGHU"
+date:   2021-01-08 13:20:03 +0530
+categories: haikus
+---
+Repeal the Farm Bills!
 
+In fields of concertina,
+
+they plough and they sow.
