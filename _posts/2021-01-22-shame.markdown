@@ -1,1 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-01-22 13:20:03 +0530
+categories: haikus
+---
+Homage to a shame
 
+they pass the buck and the blame
+
+Your throne, made of bones.
