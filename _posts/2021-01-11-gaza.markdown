@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "FOR GAZA"
-date:   2021-01-10 13:20:03 +0530
+date:   2021-01-11 13:20:03 +0530
 categories: haikus
 ---
 Curtains over siege,
