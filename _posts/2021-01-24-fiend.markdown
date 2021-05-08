@@ -1,1 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-01-24 13:20:03 +0530
+categories: haikus
+---
+Fiend autocratic.
 
+Lives reduced to statistics.
+
+Wish you gasp for breath.
