@@ -1,6 +1,6 @@
-@font-face { font-family: 'Happy Times at the IKOB Regular'; src: url("assets/happy-times-NG_regular_master_web.woff2") format("woff2"), url("assets/happy-times-NG_regular_master_web.woff") format("woff"), url("assets/happy-times-NG_regular_master_web.ttf") format("truetype"); }
-@font-face { font-family: 'Happy Times at the IKOB Bold'; src: url("assets/happy-times-NG_bold_master_web.woff2") format("woff2"), url("assets/happy-times-NG_bold_master_web.woff") format("woff"), url("assets/happy-times-NG_bold_master_web.ttf") format("truetype"); }
-@font-face { font-family: 'Happy Times at the IKOB Italic'; src: url("assets/happy-times-NG_italic_master_web.woff2") format("woff2"), url("assets/happy-times-NG_italic_master_web.woff") format("woff"), url("assets/happy-times-NG_italic_master_web.ttf") format("truetype"); }
+@font-face { font-family: 'Happy Times at the IKOB Regular'; src: url("/assets/happy-times-NG_regular_master_web.woff2") format("woff2"), url("/assets/happy-times-NG_regular_master_web.woff") format("woff"), url("/assets/happy-times-NG_regular_master_web.ttf") format("truetype"); }
+@font-face { font-family: 'Happy Times at the IKOB Bold'; src: url("/assets/happy-times-NG_bold_master_web.woff2") format("woff2"), url("/assets/happy-times-NG_bold_master_web.woff") format("woff"), url("/assets/happy-times-NG_bold_master_web.ttf") format("truetype"); }
+@font-face { font-family: 'Happy Times at the IKOB Italic'; src: url("/assets/happy-times-NG_italic_master_web.woff2") format("woff2"), url("/assets/happy-times-NG_italic_master_web.woff") format("woff"), url("/assets/happy-times-NG_italic_master_web.ttf") format("truetype"); }
 body { width: 100%; background-color: #c10c33; margin: 0; padding: 0; }
 
 p { margin-block-start: 0.25em; margin-block-end: 0.25em; }
@@ -19,4 +19,4 @@ p { margin-block-start: 0.25em; margin-block-end: 0.25em; }
 
 h1.text { font-family: "Happy Times at the IKOB Bold"; font-weight: regular; margin: 0; font-size: calc(10px + 0.6vw); line-height: 1.0; color: black; }
 
-h2.text { display: inline-block; font-size: calc(10px + 1.4vw); line-height: 1.0em; margin-top: 5px; margin-bottom: 5px; font-family: "Happy Times at the IKOB Italic"; font-weight: 400; font-style: italic; color: rgba(255, 255, 255, 0.85); }
+h2.text { display: inline-block; font-size: calc(10px + 1.4vw); line-height: 1.0em; margin-top: 5px; margin-bottom: 5px; font-family: "Happy Times at the IKOB Italic"; font-weight: 400; color: rgba(255, 255, 255, 0.85); }
