@@ -1,0 +1,42 @@
+---
+
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ site.title }}</title>
+  <link rel="shortcut icon" href="/favicon.ico?" />
+  <link rel="apple-touch-icon" href="/hxh_icon.png" />
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <meta property="og:url" content="https://inquilab.net" />
+  <meta property="og:title" content="Haiku Against Hate" />
+  <meta property="og:description" content="Seventeen Syllables in Solidarity" />
+  <meta property="og:image" content="https://inquilab.net/assets/banner.jpg" />
+</head>
+
+<body>
+<header class="header">{% include header.html %}</header>
+
+<br><br><br>
+
+<div class="post">
+    {% for post in site.posts %}
+      <section>
+        <div class="grid-container">
+      <h1 class="text">{{post.description}}</h1>
+      <h2 class="text">{{post.content}}</h2>
+        </div>
+      </section>
+    <hr class="hr-default">
+    {% endfor %}
+</div>
+
+<br><br>
+
+<footer class="footer">
+  {% include footer.html %}
+</footer>
+</body>
+</html>

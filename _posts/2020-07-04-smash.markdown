@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2020-08-05 13:20:03 +0530
+categories: haikus
+---
+Caste born, borne by fate.
+
+Of conscience, eviscerate.
+
+Smash to smithereens!

@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2020-09-06 13:20:03 +0530
+categories: haikus
+---
+Aureate skies, blackened.
+
+Murders hound around to peck,
+
+Robin sings, fear death.

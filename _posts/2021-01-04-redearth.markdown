@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-01-02 13:20:03 +0530
+categories: haikus
+---
+Caste class, turn to shards
+
+Our fists rise to a clarion
+
+A Blue sky, Red earth.

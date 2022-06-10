@@ -1,0 +1,11 @@
+---
+layout: post
+description: "FOR KHORI GAON"
+date:   2021-02-20 13:30:03 +0530
+categories: haikus
+---
+The summer scorches,
+
+razed roofs of the destitute
+
+Pure despise, the poor.

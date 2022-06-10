@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-02-08 13:20:03 +0530
+categories: haikus
+---
+Your fate will be sealed.
+
+Attested to, with our blood
+
+None is forgotten.

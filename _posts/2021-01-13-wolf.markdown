@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-01-13 13:20:03 +0530
+categories: haikus
+---
+You wolf in monk's robes,
+
+Our property dare you seize.
+
+Brittle is your pride.

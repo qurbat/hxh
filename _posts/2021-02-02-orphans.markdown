@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-02-02 13:20:03 +0530
+categories: haikus
+---
+No hospital beds.
+
+No shoulders to hoist our dead.
+
+To Midnight's Orphans.

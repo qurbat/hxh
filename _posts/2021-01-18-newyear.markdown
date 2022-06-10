@@ -1,0 +1,11 @@
+---
+layout: post
+description: "FOR A NEW YEAR"
+date:   2021-01-18 13:20:03 +0530
+categories: haikus
+---
+Two thousand twenty,
+
+the year of impunity.
+
+Plagues and bigots.

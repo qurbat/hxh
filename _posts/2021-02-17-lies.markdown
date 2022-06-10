@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-02-17 13:20:03 +0530
+categories: haikus
+---
+Lies we've heard ere long.
+
+While the media brays in praise,
+
+we fend for ourselves.

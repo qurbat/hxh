@@ -1,0 +1,11 @@
+---
+layout: post
+description: "FOR TIKRI"
+date:   2021-02-06 13:20:03 +0530
+categories: haikus
+---
+You make farmers wait,
+
+they await judgement day.
+
+Sweets, in every street.

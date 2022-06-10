@@ -1,0 +1,117 @@
+
+  @font-face {
+  font-family: 'Happy Times at the IKOB Regular';
+  src: url('/assets/happy-times-NG_regular_master_web.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/assets/happy-times-NG_regular_master_web.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/assets/happy-times-NG_regular_master_web.ttf')  format('truetype') /* Safari, Android, iOS */
+  }
+
+  @font-face {
+  font-family: 'Happy Times at the IKOB Bold';
+  src: url('/assets/happy-times-NG_bold_master_web.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/assets/happy-times-NG_bold_master_web.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/assets/happy-times-NG_bold_master_web.ttf')  format('truetype') /* Safari, Android, iOS */
+  }
+
+  @font-face {
+  font-family: 'Happy Times at the IKOB Italic';
+  src: url('/assets/happy-times-NG_italic_master_web.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/assets/happy-times-NG_italic_master_web.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/assets/happy-times-NG_italic_master_web.ttf')  format('truetype') /* Safari, Android, iOS */
+  }
+
+  body {
+    width: 100%;
+    background-color: #c10c33;
+    margin: 0;
+    padding: 0;
+  }
+
+p {
+    margin-block-start: 0.25em;
+    margin-block-end: 0.25em;
+}
+  .wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+  .grid-container {
+  display: grid;
+  grid-template-columns:  auto;
+}
+
+  .hr-default {
+    color: #111111;
+    border-color: #111111;
+    align: left;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    border-style: inset;
+    display: block;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+  }
+
+  .post {
+    text-align: left;
+    padding: 0;
+    padding-top: 8vw;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer {
+    text-align: center;
+    font-family: "Happy Times at the IKOB Regular";
+    font-weight: 300;
+    padding-top: 0.8em;
+    font-size: 0.9em;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(rgba(193,0,0,0) 0%, #c10c33 50%);
+    color: black;
+  }
+
+  .header {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    margin: auto;
+    center: 0;
+    font-size: 0.8em;
+    position: fixed;
+    height: 10vw;
+    width: 100%;
+    background-image: linear-gradient(#c10c33 72%, rgba(193,0,0,0) 100%);
+    color: black;
+  }
+
+  h1.text {
+    font-family: "Happy Times at the IKOB Bold";
+  	font-weight: regular;
+  	margin: 0;
+  	font-size: calc(10px + 0.6vw);
+  	line-height: 1.0;
+  	color: rgba(0, 0, 0, 1);
+  }
+
+  h2.text {
+      display: inline-block;
+    	font-size: calc(10px + 1.4vw);
+    	line-height: 1.0em;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    	font-family: "Happy Times at the IKOB Italic";
+    	font-weight: 400;
+    	color: rgba(255, 255, 255, 0.85);
+  }
+
+

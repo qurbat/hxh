@@ -1,0 +1,11 @@
+---
+layout: post
+description: "FOR THE SEASONAL ANARCHIST"
+date:   2021-02-11 13:20:03 +0530
+categories: haikus
+---
+Fists meet, bigot's teeth.
+
+Averse to authority.
+
+Aerosol verbose.

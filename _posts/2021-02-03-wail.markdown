@@ -1,0 +1,11 @@
+---
+layout: post
+description: ""
+date:   2021-02-03 13:20:03 +0530
+categories: haikus
+---
+A fraught nation's wail,
+
+dampened in victory drums.
+
+The press wags a tail.

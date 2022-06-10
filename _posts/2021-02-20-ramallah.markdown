@@ -1,0 +1,11 @@
+---
+layout: post
+description: "FOR RAMALLAH"
+date:   2021-02-20 14:20:03 +0530
+categories: haikus
+---
+Flare in a night sky
+
+Raid sirens, a lullaby
+
+Debris buried crib.
